@@ -2,6 +2,8 @@
 
 Keeps track of your RuneMate account's credit balance.
 
+**Requires Python 3.6**
+
 ### Usage
 `python main.py -o path/to/output.csv`
 
