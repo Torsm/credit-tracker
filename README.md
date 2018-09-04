@@ -1,6 +1,6 @@
-# RuneMate Credit Tracker
+# [RuneMate](https://www.runemate.com) Credit Tracker
 
-Keeps track of your RuneMate account's credit balance.
+Keeps track of your RuneMate account's credit balance by simulating a running client.
 
 **Requires Python 3.6**
 
